@@ -1,3 +1,3 @@
 # Basic ASM Calculator 
 
-Usage: ./calculator <number> <operator> <number>
+`Usage: ./calculator <number> <operator> <number>`
