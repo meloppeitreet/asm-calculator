@@ -2,6 +2,7 @@
 
 `Usage: ./calculator <number> <operator> <number>`
 
+NASM x86 assembly language
 Extremely small project just for revision and memory :D
 
 Only supports `%, +, -, *, /`
